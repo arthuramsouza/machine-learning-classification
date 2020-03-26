@@ -1,2 +1,5 @@
+# Powerful data structures for data analysis, time series, and statistics
+pandas
+
 # A set of python modules for machine learning and data mining
 sklearn
